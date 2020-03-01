@@ -12,7 +12,7 @@ I purchased the 2019 Mercane WideWheel from Fluidfreeride.com for $999 because i
 <!--more-->
 
 ## Weight
-After riding the WideWheel for a week, I vowed never to buy a 50lb scooter again. It turns out once you get into that weight category, it's essentially impossible to carry this thing around or even maneuver it in small spaces. Living in the city and needing to lift the scooter up a curb every once in a while was such an absolute chore.
+After riding the WideWheel for a week, I vowed never to buy a 50lb scooter again. It turns out once you get into that weight category, it's essentially impossible to carry this thing around or even maneuver it in small spaces. Living in the city and needing to lift the scooter up a curb every once in a while was such an absolute chore. You can see my updated weight requirements in my [eTWOW-GT review.](/eTWOW-GT)
 
 ## Speed
 Yes, this thing screamed. It was incredibly fast. The solid tires (even with suspension) made it so I felt every bump in the road and when I was over 25mph, I felt a little unstable. For context, I have a motorcycle license and experience riding on the highway over 60mph so if I'm starting to feel a bit unstable at 25 mph, it's definitely not a good sign.
