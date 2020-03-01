@@ -1,5 +1,9 @@
-# Scriptor
+## Notes on how to build
+cd ~/Documents/GitHub/cityscoots && bundle exec jekyll serve
+**in a browser:**
+http://localhost:4000/
 
+## Scriptor
 Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
 
 [Live Demo](https://scriptor-jekyll.netlify.com/) &nbsp; | &nbsp; [Download](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme/archive/master.zip) &nbsp;
@@ -19,7 +23,7 @@ Scriptor is a simple, minimal, clean & responsive Jekyll theme for writers.
 
 ### Stackbit Deploy
 
-This theme contains a `stackbit.yaml` file and can be used with [Stackbit](https://www.stackbit.com/) to instantly deploy to Netlify with optional headless CMS (Contentful, DatoCMS, Forestry, NetlifyCMS, etc.). 
+This theme contains a `stackbit.yaml` file and can be used with [Stackbit](https://www.stackbit.com/) to instantly deploy to Netlify with optional headless CMS (Contentful, DatoCMS, Forestry, NetlifyCMS, etc.).
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme)
 
