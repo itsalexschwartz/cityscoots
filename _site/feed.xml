@@ -5,8 +5,8 @@
         <description>Thoughts on the latest electric scooters from an obsessed Boston-based rider</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2020 18:45:17 -0500</pubDate>
-        <lastBuildDate>Sun, 01 Mar 2020 18:45:17 -0500</lastBuildDate>
+        <pubDate>Sun, 01 Mar 2020 18:52:46 -0500</pubDate>
+        <lastBuildDate>Sun, 01 Mar 2020 18:52:46 -0500</lastBuildDate>
         <generator>Jekyll v3.8.5</generator>
         
             <item>
@@ -36,7 +36,7 @@
 &lt;p&gt;As of February 2020, the eTWOW GT is surprisingly hard to find in the US. Right now &lt;a href=&quot;https://www.ewheels.com/product/new-e-twow-gt-700w-504wh-25mph/&quot;&gt;eWheels.com&lt;/a&gt; has them in stock, which is where I purchased mine for $1089. It was well worth the relatively high price and is a serious upgrade over the m365 but I can see how $399 compared to almost $1100 could give some folks pause. For me, as someone who uses this as their primary method of getting around town, it’s a worthwhile investment for sure.&lt;/p&gt;
 
 &lt;h3 id=&quot;downsides&quot;&gt;Downsides&lt;/h3&gt;
-&lt;p&gt;As mentioned before, rough patches on the road can be felt with the solid tires moreso than on the m365 (but the reliability of the solid tire plus the shocks helping immensely counter-balance this downside). Additionally, I wish there was a disk brake instead of a magnetic drum brake. The magnetic brake works well and there’s an optional foot-stomp brake for fast stops, but I’d prefer the ease of a single disk brake over the dual-brake setup of the eTWOW GT. Lastly the charger is a bit large and has a pretty loud fan in it that runs while actively charging. That’s about it for downsides!&lt;/p&gt;
+&lt;p&gt;As mentioned before, rough patches on the road can be felt with the solid tires more-so than on the m365 (but the reliability of the solid tire plus the shocks helping immensely counter-balance this downside). Additionally, I wish there was a disk brake instead of a magnetic drum brake. The magnetic brake works well and there’s an optional foot-stomp brake for fast stops, but I’d prefer the ease of a single disk brake over the dual-brake setup of the eTWOW GT. Lastly the charger is a bit large and has a pretty loud fan in it that runs while actively charging. That’s about it for downsides!&lt;/p&gt;
 
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
 &lt;p&gt;Overall, I’m very happy with my upgrade to the eTWOW GT. For a starter scooter, the m365 still can’t be beat but if you’re looking for the best thing out there for city/commuting, this is it!&lt;/p&gt;
@@ -74,16 +74,16 @@
 &lt;p&gt;Having a disk brake is a big win for the m365. Magnetic brakes are fine but the stopping power of a disk brake is second to none, especially in the rain. Once you’ve used a disk brake, it’s hard to go back to anything else.&lt;/p&gt;
 
 &lt;h2 id=&quot;weight&quot;&gt;Weight&lt;/h2&gt;
-&lt;p&gt;The weight of the m365 is right in the sweet spot, coming in around 27 lbs. I’ve found that any scooter over 30 lbs is just too unweildy. See my review of the &lt;a href=&quot;/WideWheel&quot;&gt;Mercane WideWheel scooter&lt;/a&gt; for thoughts on heavy scooters.&lt;/p&gt;
+&lt;p&gt;The weight of the m365 is right in the sweet spot, coming in around 27 lbs. I’ve found that any scooter over 30 lbs is just too unwieldy. See my review of the &lt;a href=&quot;/WideWheel&quot;&gt;Mercane WideWheel scooter&lt;/a&gt; for thoughts on heavy scooters.&lt;/p&gt;
 
 &lt;h2 id=&quot;speed--power&quot;&gt;Speed / Power&lt;/h2&gt;
 &lt;p&gt;The speed of the m365 is definitely one of the downsides. Capped at 15mph is a bit disappointing once you get used to the scooter. Thankfully, the scooter supports custom firmwares that allow you to increase the speed!&lt;/p&gt;
 
 &lt;h2 id=&quot;custom-firmware&quot;&gt;Custom firmware&lt;/h2&gt;
-&lt;p&gt;One of the great features of the m365 is that it’s so popular, people have reverse engineered the firmware and allowed for a quick and easy way to increase the speed limit on the device. Using the website &lt;a href=&quot;https://m365.botox.bz/&quot;&gt;https://m365.botox.bz/&lt;/a&gt;, you can choose to adjust engine properties and subsequently load the new firmware onto the scooter with an Android APK linked on that page. It’s not too difficult and can vastly improve the quality of the ride. On mine, I removed the minimum speed needed to start the engine (which normally requires you to be rolling at 1-2mph in order for the engine to kick in), which is a tradeoff of battery in exchange for quick acceleration from a stop. Feel free to adjust the properties as needed for your own personal taste!&lt;/p&gt;
+&lt;p&gt;One of the great features of the m365 is that it’s so popular, people have reverse engineered the firmware and allowed for a quick and easy way to increase the speed limit on the device. Using the website &lt;a href=&quot;https://m365.botox.bz/&quot;&gt;https://m365.botox.bz/&lt;/a&gt;, you can choose to adjust engine properties and subsequently load the new firmware onto the scooter with an Android APK linked on that page. It’s not too difficult and can vastly improve the quality of the ride. On mine, I removed the minimum speed needed to start the engine (which normally requires you to be rolling at 1-2mph in order for the engine to kick in), which is a trade-off of battery in exchange for quick acceleration from a stop. Feel free to adjust the properties as needed for your own personal taste!&lt;/p&gt;
 
 &lt;h2 id=&quot;range&quot;&gt;Range&lt;/h2&gt;
-&lt;p&gt;As far as range goes, the m365 is not &lt;strong&gt;bad&lt;/strong&gt; per-se but it’s pretty short. Also when the battery is under 50%, the speed and power suffers drastically. In practice, I’m hesistant to go to destinations over 2.5 miles from my home, as a 5-mile ride brings my battery percentage below 40% and then you get into danger territory. In theory the upgrade to the m365, the m365 MAX is supposed to address this issue but the MAX is so far above my weight maximum that I hesistate to mention it.&lt;/p&gt;
+&lt;p&gt;As far as range goes, the m365 is not &lt;strong&gt;bad&lt;/strong&gt; per se but it’s pretty short. Also when the battery is under 50%, the speed and power suffers drastically. In practice, I’m hesitant to go to destinations over 2.5 miles from my home, as a 5-mile ride brings my battery percentage below 40% and then you get into danger territory. In theory the upgrade to the m365, the m365 MAX is supposed to address this issue but the MAX is so far above my weight maximum that I hesitate to mention it.&lt;/p&gt;
 
 &lt;h2 id=&quot;price&quot;&gt;Price&lt;/h2&gt;
 &lt;p&gt;By far the best feature of the m365 is its incredibly low price. Right now &lt;a href=&quot;https://www.amazon.com/Xiaomi-Electric-Long-range-Fold-n-Carry-Ultra-Lightweight/dp/B076KKX4BC&quot;&gt;on Amazon&lt;/a&gt;, the m365 can be purchased for $377 but I’ve seen it as low as $299. I purchased one in 2018 for $479 and one for my partner in 2019 for $399. No regrets!&lt;/p&gt;
@@ -112,7 +112,7 @@
 &lt;p&gt;Yes, this thing screamed. It was incredibly fast. The solid tires (even with suspension) made it so I felt every bump in the road and when I was over 25mph, I felt a little unstable. For context, I have a motorcycle license and experience riding on the highway over 60mph so if I’m starting to feel a bit unstable at 25 mph, it’s definitely not a good sign.&lt;/p&gt;
 
 &lt;h2 id=&quot;concessions&quot;&gt;Concessions&lt;/h2&gt;
-&lt;p&gt;I will concede that this scooter might be the optimal scooter for someone. Maybe you live in a rural area where you are able to ride your scooter right into a garage and never have to fold it, move it, or lift it, and you’d like to ride in with the traffic at high speeds. In this case, maybe the widewheel is the scooter for you! I know, however, that based on my usage patters in a city, commuting and riding around, this was too chunky, heavy, and unweildy to provide a great experience. But as they say, to each their own!&lt;/p&gt;
+&lt;p&gt;I will concede that this scooter might be the optimal scooter for someone. Maybe you live in a rural area where you are able to ride your scooter right into a garage and never have to fold it, move it, or lift it, and you’d like to ride in with the traffic at high speeds. In this case, maybe the widewheel is the scooter for you! I know, however, that based on my usage patters in a city, commuting and riding around, this was too chunky, heavy, and unwieldy to provide a great experience. But as they say, to each their own!&lt;/p&gt;
 </description>
                 <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
                 <link>http://localhost:4000/WideWheel</link>
