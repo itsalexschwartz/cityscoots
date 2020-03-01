@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+title: About CityScoots
+description: About CityScoots
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Alex Schwartz** works in tech and games in Boston, MA and has been using scooters to get around since before it was cool.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+In an effort to organize his thoughts on the latest and greatest scooters and share his ramblings with the world, he started the CityScoots blog.
 
 *Thank You for reading!*
