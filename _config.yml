@@ -18,7 +18,7 @@ description: "Thoughts on the latest electric scooters from an obsessed Boston-b
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "http://cityscoots.net"
+url: "http://cityscoots.net/"
 
 # Favicon
 favicon: images/favicon.png
