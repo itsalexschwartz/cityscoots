@@ -36,7 +36,7 @@ navigation:
     url: /about
 
 # The shortname for your Disqus site to enable comments.
-disqus:
+disqus: "cityscoots"
 
 # Colors
 accent_color: '#ff7474'
