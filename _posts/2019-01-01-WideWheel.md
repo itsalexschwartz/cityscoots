@@ -7,7 +7,7 @@ feature_image: images/widewheel.jpg
 tags: [tips, work]
 ---
 
-I purchased the 2019 Mercane WideWheel (dual motor) from Fluidfreeride.com for $999 because it was the fastest scooter I could buy and I thought that would be a great idea! Man, was I wrong.
+I purchased the 2019 Mercane WideWheel (dual motor) from Fluidfreeride.com for $999 because it was the fastest scooter I could buy and I thought that would be a great idea! Man, was I wrong...
 
 <!--more-->
 
