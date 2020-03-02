@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mercane WideWheel - Excessively heavy and absurdly FAST"
+title: "The Mercane WideWheel - Absurdly fast but WEIGHT there's more!"
 description: "A review of the WideWheel"
 date: 2019-01-01
 feature_image: images/widewheel.jpg
